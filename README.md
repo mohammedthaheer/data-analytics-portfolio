@@ -26,7 +26,7 @@ Analyzed 32K+ customer service records to identify patterns in customer satisfac
 <img width="980" height="549" alt="Image" src="https://github.com/user-attachments/assets/6d1585f7-9607-4cf8-b49a-2534f1bf008f" />
 
 Project Link:
-https://github.com/mohammedthaheer/csat-dashboard
+https://github.com/mohammedthaheer/csat-customer-satisfaction-analysis-powerbi
 
 ---
 
@@ -38,7 +38,7 @@ Analyzed movie dataset to explore popularity, revenue performance, and director 
 <img width="960" height="543" alt="Image" src="https://github.com/user-attachments/assets/ff258e1d-319a-4fc6-8c47-ba2d56407280" />
 
 Project Link:
-https://github.com/mohammedthaheer/imdb-movie-analysis
+https://github.com/mohammedthaheer/MDB-Movies-Data-Analysis-Dashboard
 
 ---
 
@@ -50,4 +50,4 @@ Developed a dashboard to analyze calorie, fat, and protein patterns across fast 
 <img width="962" height="543" alt="Image" src="https://github.com/user-attachments/assets/e28da1c0-6a23-4d22-8b0c-4aa36564e899" />
 
 Project Link:
-https://github.com/mohammedthaheer/fast-food-analysis
+https://github.com/mohammedthaheer/fast-food-nutritional-analysis-powerbi
